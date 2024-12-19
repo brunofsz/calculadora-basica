@@ -54,6 +54,12 @@ margin-top: 30vh;
     font-size: 3vh;
   }
   input{
+    width: 15vw;
+height: 10vh;
     font-size:3vh ;
   }
+  .igual{
+    height: 30vh;
+    margin-top: 60vh;
+    }
 }
