@@ -52,6 +52,8 @@ margin-top: 30vh;
 @media screen and (max-width: 768px) {
   .visor{
     font-size: 3vh;
+      height: 10vh;
+         width: 70vw;
   }
   input{
     width: 15vw;
